@@ -10,7 +10,7 @@
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "npm run build",
+    "build": "gatsby build",
     "clean": "gatsby clean"
   },
   "license": "0BSD",
