@@ -1,6 +1,8 @@
 In this step we will programmatically create pages from the data fetched from Contentful at build time. Review Step 06 before continuing with this step.
 
 Now continuing from step 11.
+## WEB LINK
+https://goofy-mcclintock-e5c9c2.netlify.app/
 
 Update the content model of the space you created for previous post and add a Slug in Blog post content model.
 
